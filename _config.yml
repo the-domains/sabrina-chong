@@ -1,4 +1,3 @@
-layout_spectrum: 0.5366900253575295
 typography_spectrum: 0.5950888013467193
 color:
   brandStrength: 0.39524397044442594
@@ -6,9 +5,15 @@ color:
   saturation: 0.33661937643773854
   rhythmicContrast: 0.11807155259884894
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+layout_spectrum: 0.5366900253575295
+author:
+  name: SABRINA CHONG
+  email: hi@sabrinachong.com
+  url: www.sabrinachong.com
 name: SABRINA CHONG
+title: Visualist
